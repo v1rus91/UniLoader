@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>uk</string>
+    <key>CFBundleExecutable</key><string>UniLoader</string>
+    <key>CFBundleIdentifier</key><string>com.uniloader.app</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>UniLoader</string>
+    <key>CFBundleDisplayName</key><string>UniLoader</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>2.1.0</string>
+    <key>CFBundleVersion</key><string>3</string>
+    <key>CFBundleIconFile</key><string>UniLoader</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>CFBundleLocalizations</key><array><string>uk</string><string>en</string></array>
+    <key>CFBundleURLTypes</key>
+    <array><dict>
+        <key>CFBundleURLName</key><string>com.uniloader.app.url</string>
+        <key>CFBundleURLSchemes</key><array><string>uniloader</string></array>
+    </dict></array>
+    <key>NSHumanReadableCopyright</key><string>Лише для ознайомлення</string>
+</dict>
+</plist>
